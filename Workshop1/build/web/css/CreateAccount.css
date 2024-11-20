@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 12, 2024, 7:49:17 AM
+    Author     : ADMIN
+*/
+body {
+    font-family: monospace;
+    /*    background-image: url(../images/BackGroundLoginPage.png);*/
+    color: black;
+    padding-top: 70px;      
+}
+.star{
+    color : red;
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.errol-color{
+    color: red;
+}
